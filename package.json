@@ -1,0 +1,22 @@
+{
+  "name": "gotopia",
+  "version": "1.0.0",
+  "description": "godzilla's website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GodzillaHe/Gotopia.git"
+  },
+  "keywords": [
+    "godzilla"
+  ],
+  "author": "godzillahe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GodzillaHe/Gotopia/issues"
+  },
+  "homepage": "https://github.com/GodzillaHe/Gotopia#readme"
+}
